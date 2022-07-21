@@ -1,0 +1,1 @@
+Script python para floodar chat em qualquer aplicativo.
