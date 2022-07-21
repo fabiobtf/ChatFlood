@@ -1,1 +1,1 @@
-Script python para floodar chat em qualquer aplicativo.
+O Script utiliza seu mouse, assim que voce iniciar clique no chat box que deseja floodar.
